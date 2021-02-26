@@ -1,3 +1,5 @@
+点击linebar一直显示。不会消失
+
 # FL Chart
 
 
